@@ -4,6 +4,7 @@
  * Plugin URI: https://github.com/wemf/ensamblexl-events
  * Description: Plugin necesario para renderizar los eventos del sitio de Ensamble
  * Version: 0.1.4
+ * Text Domain: ensamble-xl-events
  * Author: WEMF
  * Author URI: https://github.com/wemf/
  * License: GPL2
